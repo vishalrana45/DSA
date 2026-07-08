@@ -14,3 +14,19 @@ This repository contains my solutions to DSA problems, organized to document my 
 - Python
 
 Keep Coding! 🎯
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+<!---LeetCode Topics End-->
