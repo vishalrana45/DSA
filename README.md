@@ -36,6 +36,7 @@ Keep Coding! 🎯
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishalrana45/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalrana45/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -46,6 +47,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishalrana45/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Keep Coding! 🎯
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
