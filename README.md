@@ -39,6 +39,7 @@ Keep Coding! 🎯
 | [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalrana45/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -62,9 +63,14 @@ Keep Coding! 🎯
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalrana45/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
