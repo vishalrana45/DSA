@@ -26,6 +26,7 @@ Keep Coding! 🎯
 | [0075-sort-colors](https://github.com/vishalrana45/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalrana45/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -52,4 +53,12 @@ Keep Coding! 🎯
 | [0016-3sum-closest](https://github.com/vishalrana45/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vishalrana45/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
