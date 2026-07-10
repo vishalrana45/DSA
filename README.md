@@ -70,6 +70,7 @@ Keep Coding! 🎯
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishalrana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalrana45/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
@@ -93,6 +94,11 @@ Keep Coding! 🎯
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishalrana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vishalrana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
