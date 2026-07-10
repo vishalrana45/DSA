@@ -26,6 +26,7 @@ Keep Coding! 🎯
 | [0075-sort-colors](https://github.com/vishalrana45/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalrana45/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -49,6 +50,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@ Keep Coding! 🎯
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -85,4 +88,8 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
