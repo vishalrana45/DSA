@@ -29,6 +29,7 @@ Keep Coding! 🎯
 | [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -73,6 +74,7 @@ Keep Coding! 🎯
 | [0142-linked-list-cycle-ii](https://github.com/vishalrana45/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -92,4 +94,5 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
