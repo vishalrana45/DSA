@@ -23,6 +23,7 @@ Keep Coding! 🎯
 | [0015-3sum](https://github.com/vishalrana45/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishalrana45/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishalrana45/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishalrana45/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -108,4 +109,12 @@ Keep Coding! 🎯
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalrana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalrana45/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
