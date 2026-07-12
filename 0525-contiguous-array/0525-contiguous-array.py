@@ -10,10 +10,6 @@ class Solution:
             else:
                 one += 1
             diff = zero - one
-
-            if diff == 0:
-                res = max(res,i+1)
-                continue
             
             if diff in map:
                 res = max(res,i-map[diff])
