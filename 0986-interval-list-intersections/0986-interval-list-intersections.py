@@ -20,7 +20,7 @@ class Solution:
                     s = max(start1,start2)
                     e = min(end1,end2)
                     res.append([s,e])
-            if end1 <= end2:
+            if end1 <= end2: #jo phle end hoga usse increase krna hoga
                 i += 1
             else:
                 j += 1
