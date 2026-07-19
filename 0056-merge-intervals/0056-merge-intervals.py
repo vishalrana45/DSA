@@ -15,6 +15,6 @@ class Solution:
                 start1 = start2
                 end1 = end2
         res.append([start1, end1])
-        return res
+        return res 
 
         
