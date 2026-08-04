@@ -75,6 +75,7 @@ Keep Coding! 🎯
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishalrana45/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vishalrana45/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalrana45/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/vishalrana45/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalrana45/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -187,4 +188,8 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vishalrana45/DSA/tree/master/0409-longest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vishalrana45/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
