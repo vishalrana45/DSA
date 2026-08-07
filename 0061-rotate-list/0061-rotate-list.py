@@ -8,28 +8,28 @@ class Solution:
         if head == None:
             return head
 
-        last = head #let
+        last = head #let head in starting, what is last element in node
         n = 1
-        while last.next != None: #to find n and last(n-k th  element)
+        while last.next != None: #to find n and last element of node
             n += 1
             last = last.next #to move last forward like n
 
-        k = k % n
+        k = k % n #to handle if k > n
         if k == 0:
             return head
         
-        t = head #(n-k)
+        t = head #to find (n-k)
         count = 1
         while t != None:
-            if count == n-k:
+            if count == n-k: #we can't use t here because of data type
                 break
             t = t.next
-            count += 1
+            count += 1 
         
-        last.next = head
-        res = t.next
-        t.next = None #to point last node to null
-        
+        last.next = head #to point last element before rotation with first element
+        res = t.next #new head
+        t.next = None #to point last node after rotation to null
+
         return res
         
 
