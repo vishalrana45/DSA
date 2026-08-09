@@ -35,6 +35,7 @@ Keep Coding! 🎯
 | [0503-next-greater-element-ii](https://github.com/vishalrana45/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vishalrana45/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/vishalrana45/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vishalrana45/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vishalrana45/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
@@ -69,6 +70,7 @@ Keep Coding! 🎯
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalrana45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/vishalrana45/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalrana45/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
