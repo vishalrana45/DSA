@@ -18,7 +18,6 @@ class Solution:
                 high = mid - 1 #for first occurrence
 
         #for second occurrence         
-        n = len(nums)
         low = 0
         high = n - 1
         last = -1
