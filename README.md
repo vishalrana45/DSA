@@ -39,6 +39,7 @@ Keep Coding! 🎯
 | [0704-binary-search](https://github.com/vishalrana45/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vishalrana45/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vishalrana45/DSA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vishalrana45/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishalrana45/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -73,6 +74,7 @@ Keep Coding! 🎯
 | [0209-minimum-size-subarray-sum](https://github.com/vishalrana45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vishalrana45/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/vishalrana45/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vishalrana45/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalrana45/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
@@ -203,4 +205,8 @@ Keep Coding! 🎯
 | [0024-swap-nodes-in-pairs](https://github.com/vishalrana45/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishalrana45/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vishalrana45/DSA/tree/master/0206-reverse-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vishalrana45/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
