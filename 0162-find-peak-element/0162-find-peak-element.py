@@ -4,7 +4,6 @@ class Solution:
         n = len(nums)
         low = 0
         high = n - 1
-        res = -1
 
         while low < high:
             mid = low + (high - low) // 2
