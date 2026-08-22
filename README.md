@@ -43,6 +43,7 @@ Keep Coding! 🎯
 | [0503-next-greater-element-ii](https://github.com/vishalrana45/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vishalrana45/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vishalrana45/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vishalrana45/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vishalrana45/DSA/tree/master/0739-daily-temperatures) |
@@ -113,6 +114,7 @@ Keep Coding! 🎯
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalrana45/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishalrana45/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vishalrana45/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalrana45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@ Keep Coding! 🎯
 | [0424-longest-repeating-character-replacement](https://github.com/vishalrana45/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/vishalrana45/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalrana45/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vishalrana45/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vishalrana45/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/vishalrana45/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -167,6 +170,7 @@ Keep Coding! 🎯
 | [0387-first-unique-character-in-a-string](https://github.com/vishalrana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishalrana45/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalrana45/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalrana45/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vishalrana45/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vishalrana45/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -218,6 +222,7 @@ Keep Coding! 🎯
 | [0347-top-k-frequent-elements](https://github.com/vishalrana45/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vishalrana45/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalrana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/vishalrana45/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -244,6 +249,7 @@ Keep Coding! 🎯
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalrana45/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishalrana45/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vishalrana45/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -253,4 +259,9 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vishalrana45/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
