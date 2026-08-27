@@ -1,4 +1,3 @@
-
 import heapq #for max heap as in py their is not max heap and store neg value in it
 
 class Solution:
@@ -15,5 +14,5 @@ class Solution:
             heapq.heappop(heap)
             heapq.heappush(heap, -arr[i])
             
-        return -heap[0]
+        return -heap[0] 
         
