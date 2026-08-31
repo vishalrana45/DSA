@@ -174,6 +174,7 @@ Keep Coding! 🎯
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalrana45/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vishalrana45/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/vishalrana45/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vishalrana45/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalrana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,6 +196,7 @@ Keep Coding! 🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vishalrana45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vishalrana45/DSA/tree/master/0509-fibonacci-number) |
@@ -289,4 +291,12 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vishalrana45/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
