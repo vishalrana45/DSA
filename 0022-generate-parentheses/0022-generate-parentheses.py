@@ -18,7 +18,7 @@ class Solution:
                 backtrack(open, close + 1)
                 path.pop()  #decision reverse
             
-        backtrack(0, 0)
+        backtrack(0, 0) #initial condition when open and close still zero
         return res
 
 
