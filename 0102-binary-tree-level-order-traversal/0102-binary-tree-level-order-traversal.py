@@ -13,7 +13,7 @@ class Solution:
         q = deque()
         q.append(root)
 
-        result = [] #ti store all levels together
+        result = [] #to store all levels together
         while q:
             level = [] #to store each level sep.
             
@@ -30,5 +30,5 @@ class Solution:
             
             result.append(level)
         
-        return result 
+        return result
         
