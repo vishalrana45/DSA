@@ -22,7 +22,7 @@ class Solution:
             return False
         
         if subRoot == None:
-            return true
+            return True
         
         if check(root, subRoot):
             return True
