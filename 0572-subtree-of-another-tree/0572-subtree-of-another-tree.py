@@ -27,13 +27,7 @@ class Solution:
         if check(root, subRoot):
             return True
         
-        if self.isSubtree(root.left, subRoot):
-            return True
-        
-        if self.isSubtree(root.right, subRoot):
-            return True
-        
-        return False
+        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
         
 
 
