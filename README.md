@@ -212,6 +212,7 @@ Keep Coding! 🎯
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalrana45/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vishalrana45/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishalrana45/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Keep Coding! 🎯
 | [0502-ipo](https://github.com/vishalrana45/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/vishalrana45/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vishalrana45/DSA/tree/master/0767-reorganize-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +366,7 @@ Keep Coding! 🎯
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -390,6 +393,7 @@ Keep Coding! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +429,7 @@ Keep Coding! 🎯
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +474,7 @@ Keep Coding! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
