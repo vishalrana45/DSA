@@ -191,6 +191,7 @@ Keep Coding! 🎯
 | [0020-valid-parentheses](https://github.com/vishalrana45/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/vishalrana45/DSA/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vishalrana45/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vishalrana45/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalrana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -329,6 +330,7 @@ Keep Coding! 🎯
 | [0046-permutations](https://github.com/vishalrana45/DSA/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/vishalrana45/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/vishalrana45/DSA/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Keep Coding! 🎯
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishalrana45/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -393,6 +396,7 @@ Keep Coding! 🎯
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishalrana45/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -431,6 +435,7 @@ Keep Coding! 🎯
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishalrana45/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
