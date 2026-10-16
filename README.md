@@ -380,6 +380,7 @@ Keep Coding! 🎯
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -416,6 +417,7 @@ Keep Coding! 🎯
 | [0897-increasing-order-search-tree](https://github.com/vishalrana45/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -461,6 +463,7 @@ Keep Coding! 🎯
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/vishalrana45/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -482,6 +485,7 @@ Keep Coding! 🎯
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vishalrana45/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 ## String Matching
 |  |
 | ------- |
