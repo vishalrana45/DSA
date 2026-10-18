@@ -250,6 +250,7 @@ Keep Coding! 🎯
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/vishalrana45/DSA/tree/master/0503-next-greater-element-ii) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/vishalrana45/DSA/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/vishalrana45/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalrana45/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -374,6 +375,7 @@ Keep Coding! 🎯
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vishalrana45/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vishalrana45/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vishalrana45/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -414,6 +416,7 @@ Keep Coding! 🎯
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vishalrana45/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vishalrana45/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/vishalrana45/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/vishalrana45/DSA/tree/master/0938-range-sum-of-bst) |
