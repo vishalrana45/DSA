@@ -388,6 +388,7 @@ Keep Coding! 🎯
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -429,6 +430,7 @@ Keep Coding! 🎯
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -476,6 +478,7 @@ Keep Coding! 🎯
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishalrana45/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -498,6 +501,7 @@ Keep Coding! 🎯
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vishalrana45/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## String Matching
 |  |
 | ------- |
