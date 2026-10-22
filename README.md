@@ -391,6 +391,7 @@ Keep Coding! 🎯
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishalrana45/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -483,6 +484,7 @@ Keep Coding! 🎯
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishalrana45/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -505,6 +507,7 @@ Keep Coding! 🎯
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
 ## String Matching
 |  |
 | ------- |
