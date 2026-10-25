@@ -394,6 +394,7 @@ Keep Coding! 🎯
 | [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -437,6 +438,7 @@ Keep Coding! 🎯
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishalrana45/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -489,6 +491,7 @@ Keep Coding! 🎯
 | [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/vishalrana45/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -511,6 +514,7 @@ Keep Coding! 🎯
 | [0965-univalued-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/vishalrana45/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1609-even-odd-tree](https://github.com/vishalrana45/DSA/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
