@@ -249,6 +249,7 @@ Keep Coding! 🎯
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vishalrana45/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0503-next-greater-element-ii](https://github.com/vishalrana45/DSA/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -363,6 +364,7 @@ Keep Coding! 🎯
 | [0129-sum-root-to-leaf-numbers](https://github.com/vishalrana45/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalrana45/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vishalrana45/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
@@ -463,6 +465,7 @@ Keep Coding! 🎯
 | [0129-sum-root-to-leaf-numbers](https://github.com/vishalrana45/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalrana45/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vishalrana45/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
@@ -540,6 +543,7 @@ Keep Coding! 🎯
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishalrana45/DSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -554,4 +558,12 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
