@@ -169,6 +169,7 @@ Keep Coding! 🎯
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/vishalrana45/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vishalrana45/DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/vishalrana45/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -222,6 +223,7 @@ Keep Coding! 🎯
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/vishalrana45/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vishalrana45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vishalrana45/DSA/tree/master/0509-fibonacci-number) |
@@ -344,6 +346,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vishalrana45/DSA/tree/master/0100-same-tree) |
@@ -450,6 +453,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vishalrana45/DSA/tree/master/0100-same-tree) |
@@ -548,6 +552,7 @@ Keep Coding! 🎯
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
