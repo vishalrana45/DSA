@@ -223,6 +223,7 @@ Keep Coding! 🎯
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vishalrana45/DSA/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vishalrana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/vishalrana45/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vishalrana45/DSA/tree/master/0152-maximum-product-subarray) |
@@ -335,6 +336,7 @@ Keep Coding! 🎯
 | [0022-generate-parentheses](https://github.com/vishalrana45/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vishalrana45/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vishalrana45/DSA/tree/master/0046-permutations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vishalrana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/vishalrana45/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/vishalrana45/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
@@ -346,6 +348,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vishalrana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
@@ -453,6 +456,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalrana45/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vishalrana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
@@ -552,6 +556,7 @@ Keep Coding! 🎯
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vishalrana45/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishalrana45/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0099-recover-binary-search-tree) |
