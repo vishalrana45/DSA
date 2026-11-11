@@ -201,6 +201,7 @@ Keep Coding! 🎯
 | [0387-first-unique-character-in-a-string](https://github.com/vishalrana45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishalrana45/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalrana45/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0692-top-k-frequent-words](https://github.com/vishalrana45/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vishalrana45/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishalrana45/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -381,6 +382,7 @@ Keep Coding! 🎯
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vishalrana45/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vishalrana45/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishalrana45/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -433,6 +435,7 @@ Keep Coding! 🎯
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vishalrana45/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishalrana45/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vishalrana45/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -491,6 +494,7 @@ Keep Coding! 🎯
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishalrana45/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vishalrana45/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vishalrana45/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishalrana45/DSA/tree/master/0513-find-bottom-left-tree-value) |
@@ -530,6 +534,7 @@ Keep Coding! 🎯
 | [0199-binary-tree-right-side-view](https://github.com/vishalrana45/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vishalrana45/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vishalrana45/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vishalrana45/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vishalrana45/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vishalrana45/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -570,6 +575,7 @@ Keep Coding! 🎯
 | [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishalrana45/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vishalrana45/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vishalrana45/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishalrana45/DSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -588,6 +594,7 @@ Keep Coding! 🎯
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vishalrana45/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/vishalrana45/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Iterator
 |  |
 | ------- |
